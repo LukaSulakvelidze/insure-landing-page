@@ -280,19 +280,7 @@ footer {
   transition: .4s;
 }
 
-#facebook:hover {
-  color: #2C2830;
-}
-
-#twitter:hover {
-  color: #2C2830;
-}
-
-#pinterest:hover {
-  color: #2C2830;
-}
-
-#instagram:hover {
+#facebook:hover, #twitter:hover, #pinterest:hover, #instagram:hover {
   color: #2C2830;
 }
 
