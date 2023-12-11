@@ -274,36 +274,22 @@ footer {
   width: 144px;
 }
 
-#facebook {
+#facebook, #twitter, #pinterest, #instagram {
   cursor: pointer;
   color: #837d88;
+  transition: .4s;
 }
 
 #facebook:hover {
   color: #2C2830;
 }
 
-#twitter {
-  cursor: pointer;
-  color: #837d88;
-}
-
 #twitter:hover {
   color: #2C2830;
 }
 
-#pinterest {
-  cursor: pointer;
-  color: #837d88;
-}
-
 #pinterest:hover {
   color: #2C2830;
-}
-
-#instagram {
-  cursor: pointer;
-  color: #837d88;
 }
 
 #instagram:hover {
