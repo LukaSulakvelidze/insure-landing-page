@@ -420,6 +420,8 @@ li:hover {
   .desk_path_cont1 {
     position: absolute;
     right: 0;
+    top: 0;
+    overflow: hidden;
   }
 
   .desk_path1,
@@ -427,6 +429,10 @@ li:hover {
     display: block;
   }
 
+  .desk_path1 {
+    margin: -80px 0 0;
+  }
+  
   .desk_path_cont2 {
     position: absolute;
     top: 413px;
