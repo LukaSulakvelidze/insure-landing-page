@@ -312,6 +312,7 @@ li {
   font-weight: 700;
   letter-spacing: 1.5px;
   text-align: center;
+  cursor: pointer;
   color: #2D2641;
 }
 
