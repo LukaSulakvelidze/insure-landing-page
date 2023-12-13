@@ -135,6 +135,7 @@ main {
   border: 2px solid white;
   margin-top: 16px;
   cursor: pointer;
+  transition: .4s;
   background-color: transparent;
   color: #FFF;
 }
@@ -236,6 +237,7 @@ main {
   letter-spacing: 1.5px;
   border: 2px solid white;
   cursor: pointer;
+  transition: .4s;
   background-color: transparent;
   color: #FFF;
 }
@@ -313,6 +315,7 @@ li {
   letter-spacing: 1.5px;
   text-align: center;
   cursor: pointer;
+  transition: .4s;
   color: #2D2641;
 }
 
